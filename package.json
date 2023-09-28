@@ -1,0 +1,11 @@
+{
+  "name": "nodejsexample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm help init"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
